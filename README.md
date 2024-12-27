@@ -11,6 +11,8 @@
 
 ![Screenshot (774)](./assets/Demo/demo-4.png)
 
+![Screenshot (774)](./assets/Demo/demo-5.png)
+
 ## A Simple UI Clone!
 
 #### This web page is hosted [here!](https://you-can-it.netlify.app/tasks)
