@@ -31,8 +31,6 @@ Check [Issues](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/is
 
 * Dynamic Posts: Get posts dynamically.
 * Functionality: Make it functional.
-* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
-* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
 * Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the posts can be viewed anywhere, anytime.
 
 # *Contributions*
