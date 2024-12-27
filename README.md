@@ -17,7 +17,7 @@
 
 #### This web page is hosted [here!](https://you-can-it.netlify.app/tasks)
 
-- View the local installation in the [CONTRUBUTING.md](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript/blob/main/CONTRIBUTING.md).
+- View the local installation in the [CONTRUBUTING.md](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/blob/main/CONTRIBUTING.md).
 
 ### *Features*:
 
@@ -27,7 +27,7 @@
 
 ### *Features to be added*:
 
-Check [Issues](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript/issues) for contributing to this repository.
+Check [Issues](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/issues) for contributing to this repository.
 
 * Dynamic Posts: Get posts dynamically.
 * Functionality: Make it functional.
@@ -38,7 +38,7 @@ Check [Issues](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-Ja
 # *Contributions*
 
 - All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript/blob/main/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
+- View the [`CONTRIBUTING.md`](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/blob/main/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
 
 # *Author*
 
