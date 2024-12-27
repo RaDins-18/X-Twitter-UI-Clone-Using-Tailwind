@@ -1,15 +1,12 @@
 # Greetings, contributors!
 
-- Have a look at the [Issues](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript/issues) section for issues that need to be solved!
+- Have a look at the [Issues](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/issues) section for issues that need to be solved!
 - If you make a contribution, please do not forget to add your personal details to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file!
 
 ## *Technologies used*
 
 - HTML 5
-- CSS 3 (for animations)
 - Tailwind.css
-- Javascript
-- ReactJs
 
 ## Local setup
 
@@ -22,7 +19,7 @@
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/ToDoList-App-Using-React-Tailwind-JavaScript.git
+    git clone https://github.com/<your-github-username>/X-Twitter-UI-Clone-Using-Tailwind.git
     ```
 
     **Replace \<your-github-username\>!**
@@ -31,7 +28,7 @@
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript.git
+    git remote add upstream https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind.git
     git fetch upstream
     git pull upstream main
     git push
