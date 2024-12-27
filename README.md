@@ -15,7 +15,7 @@
 
 ## A Simple UI Clone!
 
-#### This web page is hosted [here!](https://you-can-it.netlify.app/tasks)
+#### This web page is hosted [here!](https://radins-x.netlify.app/)
 
 - View the local installation in the [CONTRUBUTING.md](https://github.com/RaDins-18/X-Twitter-UI-Clone-Using-Tailwind/blob/main/CONTRIBUTING.md).
 
